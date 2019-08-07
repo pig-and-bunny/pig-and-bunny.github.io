@@ -234,8 +234,8 @@ nav {
 	background-color: #dbd0d0;
 	background-image: url(images/cat-footer.jpg);
 	background-repeat: repeat;
-	background-attachment: scroll; // fixed;
-	background-position: top;
+	background-attachment: fixed; // scroll;
+	background-position: bottom;
 	background-size: 100%;
 	clear: both;
 }
