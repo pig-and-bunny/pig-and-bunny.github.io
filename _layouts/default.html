@@ -1,51 +1,56 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+	<head>
+		<title>{% if page.title %}{{ page.title }}{% endif %}{% if page.description %} – {{ page.description }}{% endif %}</title>
 
-    {% include meta.html %}
+		{% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+		<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
+		<!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+	</head>
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+	<body>
+		<div class="wrapper-masthead">
+			<div class="container">
+				<header class="masthead clearfix">
+					{% if page.ishomepage %}
+					<div class="site-info">
+						<h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+						<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}/images/{{ site.avatar }}" style="margin-bottom:40px;"/></a><br />
+						<h3 style="margin-top: -20px;">20 June, 2020</h3>
+					{% else %}
+					<div class="site-info">
+						<h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+					{% endif %}
+						<!-- <p class="site-description">{{ site.description }}</p> -->
+						<nav>
+							<a href="{{ site.baseurl }}/">home</a>
+							<a href="{{ site.baseurl }}/venue">venue</a>
+							<a href="{{ site.baseurl }}/travel">travel</a>
+						</nav>
+					</div>
+				</header>
+			</div>
+		</div>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+		<div id="main" role="main" class="container main">
+			{{ content }}
+		</div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
-    {% include analytics.html %}
-  </body>
+		<div class="wrapper-footer">
+			<div class="container">
+				<footer class="footer">
+					<p>Site under construction! This page last updated {% last_modified_at %}.</p>
+					{% include svg-icons.html %}
+				</footer>
+			</div>
+		</div>
+		{% include analytics.html %}
+	</body>
 </html>
