@@ -212,7 +212,7 @@ nav {
 	}
 
 	a {
-		margin-right: 20px;
+		margin: 0px 10px;
 		color: $darkGray;
 
 		@include mobile {
@@ -228,19 +228,45 @@ nav {
 
 .wrapper-footer {
 	margin-top: 50px;
-	padding-bottom: 90px;
+	padding-bottom: 60px;
 	border-top: 10px solid #000;
 //	border-bottom: 1px solid #ddd;
 	background-color: #dbd0d0;
 	background-image: url(images/cat-footer.jpg);
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 	background-attachment: fixed; // scroll;
 	background-position: bottom;
 	background-size: 100%;
 	clear: both;
+	@include mobile {
+		background-size: 200%;
+	}
 }
 
 footer {
 	padding: 20px 0;
 	text-align: center;
+	@include mobile {
+		padding: 0px;
+	}
+}
+
+.site-avatar div {
+	background: url('images/robert-and-jordan-heart.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 150px 0px;
+	float: center;
+//	margin: 0 16%;
+	background-height: 100%;
+}
+
+.site-avatar div:hover {
+    background: url('images/pig-and-bunny-heart.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 150px 0px;
+	float: center;
+//	margin: 0 16%;
+	background-height: 100%;
 }

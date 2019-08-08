@@ -22,7 +22,12 @@
 					{% if page.ishomepage %}
 					<div class="site-info">
 						<h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-						<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}/images/{{ site.avatar }}" style="margin-bottom:40px;"/></a><br />
+						<!-- <a href="{{ site.baseurl }}/" class="site-avatar"> -->
+						<span class="site-avatar">
+							<div style="margin-bottom:40px;"></div>
+						</span>
+						<!-- </a> -->
+						<br />
 						<h3 style="margin-top: -20px;">20 June, 2020</h3>
 					{% else %}
 					<div class="site-info">
