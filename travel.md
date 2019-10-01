@@ -8,24 +8,22 @@ title: Travel
 
 The [venue]({{ site.baseurl }}/venue) does **not** have parking, and the nearest parking isn't near. So, for now, plan to arrive via taxi. (We are looking into shuttles, but no firm news on that front yet!)
 
-[TODO: scope out cab companies and add links here.]
-
 ### From Boston to Provincetown
 
-- Ferry
-	- [Bay State Cruises](https://baystatecruisecompany.com/).
-	  <br />Leaves from the pier at the World Trade Center.
-	  <br />From airport, take the Silver Line to Congress @ World Trade Center Station.
-	  <br />NB: boarding the Silver Line at the airport is free!
-	- [Boston Harbor Cruises](https://www.bostonharborcruises.com/provincetown-ferry/).
-	  <br />Leaves from the pier next to New England Aquarium.
-	  <br />From airport, take airport shuttle to Airport Station on the Blue Line, then take the Blue Line to Aquarium.
+The simplest way is by **ferry**. There are two main operators, and both have 2--3 ferries per day at a cost of around $61 one-way or $93 round trip.
 
-Both of these operators have 2--3 ferries per day at a cost of around $61 one-way or $93 round trip.
+- [Bay State Cruises](https://baystatecruisecompany.com/).
+  <br />Leaves from the pier at the World Trade Center.
+  <br />From airport, take the Silver Line to Congress @ World Trade Center Station.
+  <br />NB: boarding the Silver Line at the airport is free!
+- [Boston Harbor Cruises](https://www.bostonharborcruises.com/provincetown-ferry/).
+  <br />Leaves from the pier next to New England Aquarium.
+  <br />From airport, take airport shuttle to Airport Station on the Blue Line, then take the Blue Line to Aquarium.
 
-- Car
-	- Driving from Boston to P-Town takes around 2h30m, but there is significant weekend traffic from Boston to the Cape. I.e., departing Boston midday or later on Friday, the trip might take 3h30m or more.
-	- NB: the #6 highway that serves Cape Cod has lots of speed limit changes, and speeding is ticketed aggressively in parts of the Cape.
+You can also go by **car**:
+
+- Driving from Boston to P-Town takes around 2h30m, but there is significant weekend traffic from Boston to the Cape. I.e., departing Boston midday or later on Friday, the trip might take 3h30m or more.
+- NB: the #6 highway that serves Cape Cod has lots of speed limit changes, and speeding is ticketed aggressively in parts of the Cape.
 
 ### From where you live to Boston
 
