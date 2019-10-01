@@ -21,4 +21,6 @@ Everything listed above is something we've done personally, but many also happen
 
 It's a beautiful place!
 
-<img src="https://lh3.googleusercontent.com/40CPDNOqt8EooEcNsZx-CB055wk3Y1wibXak0o6J3J2C1-y6CRh_2_J-tkN1aeT8p0I_A9JquzTfgYF_ExDI1fuv4eyUNTNjCt6xn1g-rhAh5MxKJKtj0YVFQ0hy1zJh6dGt_U5Oe6_K5WuKDulLZp1rCq6H0fLuaZrpYyrM5p6Njb-iRuRErpn8moFPUZGuoJWwt1i3Xmx_w6Tzfs-ol0eevF876DpK9NUpJftuOWPKi3PIP93NSfLIfS2IWuVtNXVUycrLQvp78uvo4SYsL7IzyEfaXrcnKBT5ZYI2tH2b9u5yIYWsp_cMqEjswXp8puYrQAd8Y4nWeyfDsrD4U2i7cw5Hg4_7rT8DEzf73CJd0buqgN-C9edwQLqcsw1ockfITJ08gXLHknoWbtTGTHq80WKvR7JUZEsxUh_RPrLMHU2ZMyDnMEyJaoEVxSNBbZobWekiZjQ-puQgkF2vh5wzlQt4VmpGO9LNRaBCvHn2OvVEpPHrGD8TLdfKr35UculPnAMxf2qYeWKQF4fF-x36nLaqTnKiv6nJKNuME1BgOzI6600e7Y-X6vuNS1ecd2fJOiDxMlKlmDdAg3whkNEZ6Ej1U7-DftNRA97TO25MlNswRoxrHsqWWvEoyu8wRwteMRs2hHcmOwedqnYHVpduCrA7GNxNKdOOF6c6XScbfwL9Ts6rcpQ=w1726-h1294-no">
+<img src="{{ site.baseurl }}/images/corn_hill_beach.jpg" width="100%">
+
+<!-- style="float:right; margin: 0px 0px 10px 20px;" -->
