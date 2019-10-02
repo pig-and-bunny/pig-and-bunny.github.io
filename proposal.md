@@ -36,3 +36,21 @@ Robert sat beside Jordan throughout the solve. Once Jordan had the letters of bo
 "Took bloody long enough!"—but well worth the wait!
 
 <a href="{{ site.baseurl }}/images/puzzle-solution.jpg"><img src="{{ site.baseurl }}/images/puzzle-solution.jpg" width="100%" style="float:center; clear:both;"></a>
+
+### Setup
+
+How did Robert pull off this coup? The key part may have been simpler than you thought: he just asked!
+
+Robert contacted the editors of Harper's with the proposal (ha), and they said they would pass along the idea to Richard E. Maltby Jr., the setter of their cryptic. Maltby Jr. replied that in the 40-year history of the puzzle, no reader had ever suggested anything like this before, and that he could see no reason not to oblige Robert now. Maltby Jr. agreed to design the puzzle, with a general theme accessible to everyone but with a personal touch just for us.
+
+More complex than you thought, perhaps, were the machinations to ensure that Jordan would receive and solve the puzzle at the right time. He planned a family trip (with his sisters and brother-in-law) for the month the issue would arrive (August 2018); he withheld Jordan's copy of the issue until that trip (which was only possible since Jordan's subscription was still delivered to Robert's house). As the trip started, he planted seeds to make sure Jordan would start the puzzle: "I'll be bringing your Harper's, so you can do the puzzle soon..." "Maybe show Jacky how cryptic crosswords work?" Strong hints, in hindsight, but Jordan didn't suspect a thing until he solved it!
+
+### Background
+
+Robert knew that Jordan loved doing the Harper's cryptic. But he didn't know how long he had been doing it! From Jordan's thank-you note to Richard E. Maltby Jr.:
+
+> ...Not only have I been doing your puzzle for years---perhaps two decades?---but your puzzles for Harper’s are the whole reason I learned to do cryptic crosswords in the first place.
+>
+> My parents subscribed to Harper’s for a long time in the 80s and 90s, so there were always stacks of back-issues in various nooks of the basement. Browsing through them at, say, age 10, I wasn’t ready to absorb the main articles, but certain features were immediately compelling, like the puzzles at the back of each issue, with their arcane instructions and Kabbalistic diagrams—cryptic indeed! I couldn’t make heads or tails of any of the clues, but the instructions, the diagrams, and the rich vocabulary enthralled me. I resolved to learn how to think cryptically and to make my own puzzles one day.
+
+Now, Jordan does make his own puzzles, occasionally ([his homepage](http://jblsmith.github.io/puzzles/) summarizes his efforts). And maybe he'll be a published setter, some day, but today he is simply honoured to be made a part of the history of his favourite puzzle!
