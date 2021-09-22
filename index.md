@@ -6,7 +6,7 @@ ishomepage: yes
 We're getting married!
 
 Actually, we already got married in San Francisco in April 2019...
-But we are having the wedding party on **June 20th, 2020**.
+But we are having the wedding party on ~~June 20th, 2020~~ — rescheduled to **June 25, 2022**!
 
 This is the webpage where we will post any and all information related to the event: details on the venue, tips on travel and getting accommodations, shark advisories, etc.
 
